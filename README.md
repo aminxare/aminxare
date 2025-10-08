@@ -8,7 +8,7 @@ I love solving complex problems, learning new technologies, and creating tools t
 ## 🛠️ **Tech Stack**
 
 **Languages:**
-`Python` · `JavaScript` · `Rust`
+`JavaScript` · `Rust`
 
 **Frameworks & Tools:**
 `React` · `Next.js` · `Node.js` · `Docker`
