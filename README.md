@@ -20,7 +20,7 @@ Web Development · System Design · Performance Optimization
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=rust,js,nodejs,react,nextjs,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=tailwind,redux,docker,linux,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=tailwind,redux,docker,linux,postgres,redis,kafka,rabbitmq,rocket" />
 </p>
 
 ## ⚡️ **GitHub Stats**
