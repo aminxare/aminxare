@@ -8,11 +8,11 @@
 
 <!-- Social badges -->
 <p>
-  <a href="https://github.com/aminxare">
-    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-11191c?style=for-the-badge&logo=github&logoColor=59d6c5">
+  <a href="https://www.linkedin.com/in/aminxare/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-2563EB?style=for-the-badge">
   </a>
   <a href="mailto:amnxare@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/EMAIL-11191c?style=for-the-badge&logo=protonmail&logoColor=59d6c5">
+    <img alt="Email" src="https://img.shields.io/badge/EMAIL-64748B?style=for-the-badge">
   </a>
 </p>
 
@@ -91,7 +91,6 @@ I enjoy solving real problems, learning deeply, and shipping useful tools.
 
 ### GitHub Stats
 
-<img width="390" src="https://github-readme-stats.vercel.app/api?username=aminxare&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&bg_color=00000000&title_color=59d6c5&icon_color=59d6c5&text_color=c9d1d9" alt="GitHub Stats" />
 <br><br>
 <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aminxare&theme=transparent&count_private=true&border_radius=10&locale=en&background=00000000&ring=59d6c5&fire=59d6c5&currStreakLabel=59d6c5" alt="GitHub Streak" />
 <br><br>
