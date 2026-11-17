@@ -1,43 +1,104 @@
-# 👋 Hi, I'm **Amin Xare**
+<div align="center">
 
-Welcome to my GitHub profile!
-I'm a **Software Developer** passionate about building **scalable and reliable web applications**.
-I love solving complex problems, learning new technologies, and creating tools that make an impact.
+# Hey, I'm Amin 👋
 
+**Full-stack developer** · Building reliable web apps & exploring systems with Rust
 
-## 🛠️ **Tech Stack**
+<br>
 
-**Languages:**
-`JavaScript` · `Rust`
-
-**Frameworks & Tools:**
-`React` · `Next.js` · `Node.js` · `Docker`
-
-**Areas of Interest:**
-Web Development · System Design · Performance Optimization
-
-## 💻 **Languages and Tools**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,js,nodejs,react,nextjs,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=tailwind,redux,docker,linux,postgres,redis,kafka,rabbitmq,rocket" />
+<!-- Social badges -->
+<p>
+  <a href="https://github.com/aminxare">
+    <img alt="GitHub" src="https://img.shields.io/badge/GITHUB-11191c?style=for-the-badge&logo=github&logoColor=59d6c5">
+  </a>
+  <a href="mailto:amnxare@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/EMAIL-11191c?style=for-the-badge&logo=protonmail&logoColor=59d6c5">
+  </a>
 </p>
 
-## ⚡️ **GitHub Stats**
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='2' fill='%2359d6c5'/%3E%3C/svg%3E" width="100%" height="2" alt="">
 
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=aminxare&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-  <br><br>
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aminxare&theme=transparent&count_private=true&border_radius=10&locale=en" alt="GitHub Streak" />
-  <br><br>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminxare&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Top Languages" />
+### About Me
+
+I'm a software developer focused on **scalable web applications** and clean architecture.  
+I enjoy solving real problems, learning deeply, and shipping useful tools.
+
+🔭 Currently building **NovaDesk** (web desktop environment)  
+🦀 Exploring **Rust** for systems & terminal tools  
+🎧 Outside of code: rock music & good books
+
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='2' fill='%2359d6c5'/%3E%3C/svg%3E" width="100%" height="2" alt="">
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,react,nextjs,nodejs,tailwind,redux,docker,linux,postgres,mongodb,redis&perline=7" />
+</p>
+
+**Languages** → TypeScript · JavaScript · Rust  
+**Frontend** → React · Next.js · Tailwind · Redux  
+**Backend & Infra** → Node.js · Docker · PostgreSQL · MongoDB · Redis · Linux
+
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='2' fill='%2359d6c5'/%3E%3C/svg%3E" width="100%" height="2" alt="">
+
+### Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aminxare/NovaDesk">NovaDesk</a></h3>
+      <p>A web-based desktop experience with windows, apps, and an OS-like interface.</p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-11191c?style=flat-square&logo=typescript&logoColor=59d6c5">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-11191c?style=flat-square&logo=nextdotjs&logoColor=59d6c5">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aminxare/mplayer">mplayer</a></h3>
+      <p>Lightweight terminal music player with a clean TUI. Built for learning Rust + audio.</p>
+      <p>
+        <img alt="Rust" src="https://img.shields.io/badge/Rust-11191c?style=flat-square&logo=rust&logoColor=f4a259">
+        <img alt="ratatui" src="https://img.shields.io/badge/ratatui-11191c?style=flat-square&logo=rust&logoColor=59d6c5">
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aminxare/StreamCoin">StreamCoin</a></h3>
+      <p>Full-stack TypeScript project built with Next.js.</p>
+      <p>
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-11191c?style=flat-square&logo=typescript&logoColor=59d6c5">
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-11191c?style=flat-square&logo=nextdotjs&logoColor=59d6c5">
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/aminxare/file-transfer-p2p">file-transfer-p2p</a></h3>
+      <p>Peer-to-peer file transfer tool written in Rust.</p>
+      <p>
+        <img alt="Rust" src="https://img.shields.io/badge/Rust-11191c?style=flat-square&logo=rust&logoColor=f4a259">
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<a href="https://github.com/aminxare?tab=repositories">
+  <img alt="View all repositories" src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-11191c?style=for-the-badge&logo=github&logoColor=59d6c5">
+</a>
+
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='2' fill='%2359d6c5'/%3E%3C/svg%3E" width="100%" height="2" alt="">
+
+### GitHub Stats
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=aminxare&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&bg_color=00000000&title_color=59d6c5&icon_color=59d6c5&text_color=c9d1d9" alt="GitHub Stats" />
+<br><br>
+<img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=aminxare&theme=transparent&count_private=true&border_radius=10&locale=en&background=00000000&ring=59d6c5&fire=59d6c5&currStreakLabel=59d6c5" alt="GitHub Streak" />
+<br><br>
+
+<img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='2'%3E%3Crect width='100%25' height='2' fill='%2359d6c5'/%3E%3C/svg%3E" width="100%" height="2" alt="">
+
+Thanks for visiting!  
+Feel free to explore the repos or reach out — always happy to connect and build cool things.
+
 </div>
-
-## 🌱 **A Bit More About Me**
-
-* 🔭 I enjoy working on **open-source projects** and side experiments.
-* 🌍 Currently exploring **Rust** and **system-level programming**.
-* 🎧 When I’m not coding, I’m usually listening to **rock music** or reading great books.
-
-Thanks for visiting my profile!
-Let’s **build something awesome together** 🚀
